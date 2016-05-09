@@ -1,0 +1,28 @@
+name: Evelyn Powers
+favicon: null
+layout_spectrum: 0.24882420059293509
+typography_spectrum: 0.2820471259765327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3119911786634475
+  lightness: 0.09865731885656714
+  saturation: 0.7105618126224726
+  rhythmicContrast: 0.35236845910549164
+purpose: []
